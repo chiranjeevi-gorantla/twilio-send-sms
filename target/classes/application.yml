@@ -1,0 +1,5 @@
+twilio:
+  account_sid: <ACCOUNT_SID>
+  auth_token: <AUTH_TOKEN>
+  to_phone_number: <TO_PHONENUMBER>
+  from_phone_number: <FROM_PHONENUMBER>
